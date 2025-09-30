@@ -6,8 +6,8 @@ Problems are organized by sessions (`Day_1` → `Day_8`).
 
 ## 👨‍🏫 Instructor  
 **[Instructor Name]**  
-- **twitter**: [Muhammad Abdulkariim](https://www.linkedin.com/in/makariim/)
-- **LinkedIn**: [MAbdulkariim](https://x.com/MAbdulkariim?t=ycdm6AG5pCpqtOyVaGSRUg&s=09)
+- **LinkedIn**: [Muhammad Abdulkariim](https://www.linkedin.com/in/makariim/)
+- **twitter**: [MAbdulkariim](https://x.com/MAbdulkariim?t=ycdm6AG5pCpqtOyVaGSRUg&s=09)
 
   
 ## 📂 Sessions  

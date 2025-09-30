@@ -1,36 +1,31 @@
-# Problem Solving Repository
+# Data Structures & Algorithms – Problem Solving  
 
-This repository contains my solutions to various coding problems that I've solved on platforms like **HackerRank** and **LeetCode**. The problems are organized into categories, and each solution is accompanied by an analysis of its time and space complexity. The code is written in **C#** for algorithmic problems and **SQL** for database-related challenges.
+## 📌 About  
+This repo contains my solutions from an **offline DSA course**.  
+Problems are organized by sessions (`Day_1` → `Day_8`).  
 
-## Table of Contents
+## 👨‍🏫 Instructor  
+**[Instructor Name]**  
+- **twitter**: [Muhammad Abdulkariim](https://www.linkedin.com/in/makariim/)
+- **LinkedIn**: [MAbdulkariim](https://x.com/MAbdulkariim?t=ycdm6AG5pCpqtOyVaGSRUg&s=09)
 
-- [Coding Platforms](#coding-platforms)
-- [Problem Categories](#problem-categories)
-- [Code Language](#code-language)
-- [Contact](#contact)
+  
+## 📂 Sessions  
+- [Day 1](./Day_1)  
+- [Day 2](./Day_2)  
+- [Day 3](./Day_3)  
+- [Day 4](./Day_4)  
+- [Day 5](./Day_5)  
+- [Day 6](./Day_6)  
+- [Day 7](./Day_7)  
+- [Day 8](./Day_8)  
 
-## Coding Platforms
 
-The problems in this repository are solved from the following platforms:
 
-- **HackerRank**
-- **LeetCode**
-
-## Problem Categories
-
-The problems are categorized to make it easier to find solutions based on the problem type. Categories include, but are not limited to:
-
-- Arrays
-- Strings
-- Dynamic Programming
-- Graphs
-- Trees
-- Databases (SQL)
-
+  
 ## Code Language
 
 - **C#** is used for algorithmic problems.
-- **SQL** is used for database-related problems.
 
 ### Time and Space Complexity
 

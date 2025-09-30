@@ -11,14 +11,14 @@ Problems are organized by sessions (`Day_1` → `Day_8`).
 
   
 ## 📂 Sessions  
-- [Day 1](./Day_1)  
-- [Day 2](./Day_2)  
-- [Day 3](./Day_3)  
-- [Day 4](./Day_4)  
-- [Day 5](./Day_5)  
-- [Day 6](./Day_6)  
-- [Day 7](./Day_7)  
-- [Day 8](./Day_8)  
+- [Day_1](./Day_1)  
+- [Day_2](./Day_2)  
+- [Day_3](./Day_3)  
+- [Day_4](./Day_4)  
+- [Day_5](./Day_5)  
+- [Day_6](./Day_6)  
+- [Day_7](./Day_7)  
+- [Day_8](./Day_8)  
 
 
 

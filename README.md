@@ -5,7 +5,7 @@ This repo contains my solutions from an **offline DSA course**.
 Problems are organized by sessions (`Day_1` → `Day_8`).  
 
 ## 👨‍🏫 Instructor  
-**[Instructor Name]**  
+**[Muhammad Abdulkariim]**  
 - **LinkedIn**: [Muhammad Abdulkariim](https://www.linkedin.com/in/makariim/)
 - **twitter**: [MAbdulkariim](https://x.com/MAbdulkariim?t=ycdm6AG5pCpqtOyVaGSRUg&s=09)
 
